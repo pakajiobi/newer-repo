@@ -1,6 +1,7 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px;
 }
 
 nav {
@@ -49,4 +50,39 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 1.17em;
+  line-height: 1.2em;
+
+
+}
+
+p {
+  font-size: 100%;
+  line-height: 1.5em;
+}
+
+figcaption {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.author {
+  padding-bottom: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  color:#0070BC;
 }
